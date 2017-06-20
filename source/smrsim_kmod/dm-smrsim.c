@@ -28,6 +28,7 @@
 #include <linux/mutex.h>
 #include <linux/math64.h>
 #include <linux/version.h>
+#include <linux/vmalloc.h>
 #include "smrsim_types.h"
 #include "smrsim_ioctl.h"
 #include "smrsim_kapi.h"
